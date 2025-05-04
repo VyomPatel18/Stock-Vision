@@ -64,3 +64,8 @@
   - Graph showing **actual vs predicted stock prices**
 - Visual outputs help users easily interpret past and forecasted performance trends.
 
+## OUTPUT
+
+![Stock Home Page](https://github.com/user-attachments/assets/3bc880a9-ce9b-45da-885b-31cdcc93990f)
+![Stock Analays page](https://github.com/user-attachments/assets/80e003ea-f244-48a0-bcf3-ce3d4e9b771c)
+![Stock Prediction page](https://github.com/user-attachments/assets/7d6abfbf-cfc6-44d0-b8f8-b74de8890f00)
